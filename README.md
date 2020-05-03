@@ -1,5 +1,5 @@
 # Δv Calculator
-> Calculate Δv for two stages and compare with Δv required for Hohmann transfer to different celestial bodies
+> Calculate Δv for up to two stages and compare with Δv required for Hohmann transfer to different celestial bodies
 
 >All Hohmann transfers assume an optimal angle of ejection and a safe low orbit
 
