@@ -12,17 +12,17 @@ Im sure this is stupidly complex for what it is. any optimization suggestions ar
 
 
 
-                                                   ,:
-                                                 ,' |
-                                                /   :
-                                             --'   /
+       hope                                       ,:
+          you                                    ,' |
+            like                                /   :
+                <3                           --'   /
                                              \/ />/
                                              / <//_\
                                           __/   /
-                                          )'-. /
-                                          ./  :\
-                                           /.' '
-                                         '/'
+ stay tuned                               )'-. /
+     for whatever                       ./  :\
+        the hell                        /.' '
+            i do next :)              '/'
                                          +
                                         '
                                       `.
