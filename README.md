@@ -7,7 +7,7 @@
 
 
 Im sure this is stupidly complex for what it is. any optimization suggestions are HIGHLY appreciated 
-> :)
+>I'll test this on a linux machine when i get a chance, I hope it works for everyone  :)
 
 
 ![](https://github.com/Ballsnacks/Deltav-calculator/blob/master/Delta.PNG?raw=true)
