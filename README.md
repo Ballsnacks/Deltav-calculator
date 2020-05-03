@@ -11,18 +11,17 @@ Im sure this is stupidly complex for what it is. any optimization suggestions ar
 
 
 
-
-       hope                                       ,:
-          you                                    ,' |
-            like                                /   :
-                <3                           --'   /
+                                                   ,:
+                                                 ,' |
+                                                /   :
+                                             --'   /
                                              \/ />/
                                              / <//_\
                                           __/   /
- stay tuned                               )'-. /
-     for whatever                       ./  :\
-        the hell                        /.' '
-            i do next :)              '/'
+                                          )'-. /
+                                          ./  :\
+                                           /.' '
+                                         '/'
                                          +
                                         '
                                       `.
@@ -45,6 +44,7 @@ Im sure this is stupidly complex for what it is. any optimization suggestions ar
          ( 8)  ( _.aP" _a   \( \   *
        +  )/    (8P   (88    )  )
           (a:f   "     `"       `
+
 
 
 
