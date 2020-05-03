@@ -10,7 +10,7 @@ Im sure this is stupidly complex for what it is. any optimization suggestions ar
 > :)
 
 
-![](https://github.com/Ballsnacks/Deltav-calculator/blob/master/Deltav.PNG?raw=true)
+![](https://github.com/Ballsnacks/Deltav-calculator/blob/master/Delta.PNG?raw=true)
 
 
 
