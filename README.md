@@ -10,5 +10,5 @@ I'm sure this is stupidly complex for what it Does. Any optimization suggestions
 >I'll test this on a linux machine when i get a chance, I hope it works for everyone  :)
 
 
-![](https://github.com/Ballsnacks/Deltav-calculator/blob/master/Delta.PNG?raw=true)
+![](https://github.com/Ballsnacks/Deltav-calculator/blob/master/dv.PNG?raw=true)
 
